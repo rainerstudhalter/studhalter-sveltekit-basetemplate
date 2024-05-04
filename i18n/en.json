@@ -1,0 +1,11 @@
+{
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "lang_label": "English",
+    
+    "website_title": "",
+	"website_description": "",
+	"website_keywords": "",
+
+    "error_title": "Error",
+    "error_404_message": "This resource does not exist."
+}

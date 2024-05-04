@@ -1,0 +1,16 @@
+:root {
+    --font-size-base: 14px;
+	@screen xs {--font-size-base: 16px;}
+	@screen sm {--font-size-base: 19px;}
+	@screen md {--font-size-base: 20px;}
+	@screen lg {--font-size-base: 21px;}
+	@screen xl {--font-size-base: 22px;}
+	@screen 2xl {--font-size-base: 23px;}
+	@screen 3xl {--font-size-base: 24px;}
+
+    --text-color: 50, 50, 50;
+
+	@media print {
+		--font-size-base: 14px;
+	}
+}
