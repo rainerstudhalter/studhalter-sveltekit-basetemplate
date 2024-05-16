@@ -1,4 +1,4 @@
-# studhalter-template
+# studhalter-sveltekit-basetemplate
 
 SvelteKit Template with [UnoCSS](https://unocss.dev/), [SASS](https://sass-lang.com/), [inlang](https://inlang.com/c/svelte).
 
